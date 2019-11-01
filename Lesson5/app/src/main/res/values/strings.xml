@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson 5</string>
+    <string name="age">age</string>
+    <string name="name">name</string>
+    <string name="todo">TODO</string>
+    <string name="sdt">sdt</string>
+</resources>
